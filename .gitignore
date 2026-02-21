@@ -1,3 +1,11 @@
+# Modeller ve Videoları yükleme
+models/
+videos/
+*.mp4
+*.avi
+*.pt
+*.pth
+
+# Python gereksiz önbellek dosyaları
 __pycache__/
 *.pyc
-.vscode/
